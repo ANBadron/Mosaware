@@ -1,0 +1,11 @@
+{
+  "name": "mosaware",
+  "version": "1.0.0",
+  "description": "suggestion box",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "nizar",
+  "license": "ISC"
+}
